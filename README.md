@@ -16,6 +16,7 @@ Description: Creativity score based on type of motivation
    3. Discuss which of the distribution is best to reflect observed data.
 4. For each group separately generate probability sample of 100 values from distribution with parameters estimated in the previous point which you have chosen as the best one.
 5. For each group separately compute 95 % confidence interval for the mean.
+6. For each group separately with the 5% level of significance test hypothesis whether the mean equals value of K (parameter of the task). You can use result of the previous task or output of a corresponding function in your software.
 
 ## Python representation ##
 
