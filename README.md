@@ -2,9 +2,9 @@
 
 ## Overview ##
 
-Data file: case0101
+**Data file:** case0202
 
-Description: Creativity score based on type of motivation
+**Description:** Anatomical abnormalities associated with schizophrenia
 
 ### Tasks ###
 
@@ -17,19 +17,3 @@ Description: Creativity score based on type of motivation
 4. For each group separately generate probability sample of 100 values from distribution with parameters estimated in the previous point which you have chosen as the best one.
 5. For each group separately compute 95 % confidence interval for the mean.
 6. For each group separately, with the 5% level of significance, test hypothesis whether the mean equals value of K (parameter of the task). You can use result of the previous task or output of a corresponding function in your software.
-
-## Python representation ##
-
-* Each group from data file will be represented as separate variable with data type list containing particular values
-
-**Preview:**
-
-``` python
-
-fe3 = []
-fe4 = []
-
-fe3 = [1.6599999666214, 2.00999999046326, 2.16000008583069, 2.42000007629395]
-fe4 = [3.82999992370605, 4.07999992370605, 4.26999998092651, 4.53000020980835]
-
-```
