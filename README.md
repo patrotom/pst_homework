@@ -6,7 +6,7 @@
 
 **Description:** Anatomical abnormalities associated with schizophrenia
 
-### Tasks ###
+## Tasks ##
 
 1. Load the data file, find two observed data groups and separate them. Describe these two data groups. For each group find mean, variance and median.
 2. For each group try to find probability density function (based on histogram) and distribution function (based on ecdf).
